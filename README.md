@@ -1,4 +1,4 @@
-# jsondiff
+# datadiff
 
 - It is used to find differences between two json files/data
 - There are possibly three scenarios
@@ -9,4 +9,8 @@
 - Diff
   1. Keys are different
   2. Keys are same but data is different
+  3. Added keys
+  4. Deleted keys
+  
+
   
